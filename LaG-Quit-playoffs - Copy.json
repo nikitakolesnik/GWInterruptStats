@@ -1,0 +1,598 @@
+{
+  "agents": [
+    {
+      "agent_id": 58,
+      "name": "Seb Seb Seb Seb Seb (7)",
+      "profession": "Mo/A",
+      "skills_casted": [
+        {
+          "cast_time": 0.25,
+          "caster": 58,
+          "instance_timestamp": 21299,
+          "skill_id": 299,
+          "skill_name": "Shielding Hands",
+          "target": 0
+        },
+        {
+          "cast_time": 0.75,
+          "caster": 58,
+          "instance_timestamp": 32449,
+          "skill_id": 1118,
+          "skill_name": "Healing Burst",
+          "target": 0
+        },
+        {
+          "cast_time": 0.75,
+          "caster": 58,
+          "instance_timestamp": 33222,
+          "skill_id": 1118,
+          "skill_name": "Healing Burst",
+          "target": 0
+        },
+        {
+          "cast_time": 0.75,
+          "caster": 58,
+          "instance_timestamp": 33936,
+          "skill_id": 1118,
+          "skill_name": "Healing Burst",
+          "target": 0
+        },
+        {
+          "cast_time": 0.375,
+          "caster": 58,
+          "instance_timestamp": 34550,
+          "skill_id": 1118,
+          "skill_name": "Healing Burst",
+          "target": 0
+        },
+        {
+          "cast_time": 0.25,
+          "caster": 58,
+          "instance_timestamp": 51999,
+          "skill_id": 299,
+          "skill_name": "Shielding Hands",
+          "target": 0
+        },
+        {
+          "cast_time": 0.25,
+          "caster": 58,
+          "instance_timestamp": 80410,
+          "skill_id": 2061,
+          "skill_name": "Patient Spirit",
+          "target": 60
+        },
+        {
+          "cast_time": 1.0,
+          "caster": 58,
+          "instance_timestamp": 83263,
+          "skill_id": 2003,
+          "skill_name": "Cure Hex",
+          "target": 99
+        },
+        {
+          "cast_time": 0.75,
+          "caster": 58,
+          "instance_timestamp": 84962,
+          "skill_id": 1118,
+          "skill_name": "Healing Burst",
+          "target": 56
+        },
+        {
+          "cast_time": 0.25,
+          "caster": 58,
+          "instance_timestamp": 85994,
+          "skill_id": 311,
+          "skill_name": "Draw Conditions",
+          "target": 60
+        },
+        {
+          "cast_time": 0.25,
+          "caster": 58,
+          "instance_timestamp": 87877,
+          "skill_id": 2061,
+          "skill_name": "Patient Spirit",
+          "target": 56
+        },
+        {
+          "cast_time": 0.6015124917030334,
+          "caster": 58,
+          "instance_timestamp": 90300,
+          "skill_id": 887,
+          "skill_name": "Signet of Rejuvenation",
+          "target": 56
+        },
+        {
+          "cast_time": 1.0,
+          "caster": 58,
+          "instance_timestamp": 92606,
+          "skill_id": 887,
+          "skill_name": "Signet of Rejuvenation",
+          "target": 60
+        },
+        {
+          "cast_time": 0.15037812292575836,
+          "caster": 58,
+          "instance_timestamp": 94034,
+          "skill_id": 887,
+          "skill_name": "Signet of Rejuvenation",
+          "target": 0
+        },
+        {
+          "cast_time": 1.8898816108703613,
+          "caster": 58,
+          "instance_timestamp": 95835,
+          "skill_id": 1118,
+          "skill_name": "Healing Burst",
+          "target": 85
+        },
+        {
+          "cast_time": 1.0,
+          "caster": 58,
+          "instance_timestamp": 97516,
+          "skill_id": 2003,
+          "skill_name": "Cure Hex",
+          "target": 99
+        },
+        {
+          "cast_time": 0.25,
+          "caster": 58,
+          "instance_timestamp": 104880,
+          "skill_id": 2061,
+          "skill_name": "Patient Spirit",
+          "target": 61
+        },
+        {
+          "cast_time": 0.75,
+          "caster": 58,
+          "instance_timestamp": 106175,
+          "skill_id": 1118,
+          "skill_name": "Healing Burst",
+          "target": 61
+        },
+        {
+          "cast_time": 1.0,
+          "caster": 58,
+          "instance_timestamp": 107182,
+          "skill_id": 887,
+          "skill_name": "Signet of Rejuvenation",
+          "target": 61
+        },
+        {
+          "cast_time": 1.0,
+          "caster": 58,
+          "instance_timestamp": 108358,
+          "skill_id": 887,
+          "skill_name": "Signet of Rejuvenation",
+          "target": 61
+        },
+        {
+          "cast_time": 0.25,
+          "caster": 58,
+          "instance_timestamp": 110158,
+          "skill_id": 311,
+          "skill_name": "Draw Conditions",
+          "target": 61
+        },
+        {
+          "cast_time": 0.25,
+          "caster": 58,
+          "instance_timestamp": 113894,
+          "skill_id": 299,
+          "skill_name": "Shielding Hands",
+          "target": 0
+        },
+        {
+          "cast_time": 0.25,
+          "caster": 58,
+          "instance_timestamp": 115617,
+          "skill_id": 2061,
+          "skill_name": "Patient Spirit",
+          "target": 56
+        },
+        {
+          "cast_time": 1.0,
+          "caster": 58,
+          "instance_timestamp": 117632,
+          "skill_id": 887,
+          "skill_name": "Signet of Rejuvenation",
+          "target": 61
+        },
+        {
+          "cast_time": 1.0,
+          "caster": 58,
+          "instance_timestamp": 119997,
+          "skill_id": 2003,
+          "skill_name": "Cure Hex",
+          "target": 60
+        },
+        {
+          "cast_time": 0.75,
+          "caster": 58,
+          "instance_timestamp": 121480,
+          "skill_id": 1118,
+          "skill_name": "Healing Burst",
+          "target": 85
+        },
+        {
+          "cast_time": 0.25,
+          "caster": 58,
+          "instance_timestamp": 123324,
+          "skill_id": 311,
+          "skill_name": "Draw Conditions",
+          "target": 60
+        },
+        {
+          "cast_time": 0.25,
+          "caster": 58,
+          "instance_timestamp": 124332,
+          "skill_id": 2061,
+          "skill_name": "Patient Spirit",
+          "target": 61
+        },
+        {
+          "cast_time": 1.417411208152771,
+          "caster": 58,
+          "instance_timestamp": 130641,
+          "skill_id": 2061,
+          "skill_name": "Patient Spirit",
+          "target": 56
+        },
+        {
+          "cast_time": 1.0,
+          "caster": 58,
+          "instance_timestamp": 135034,
+          "skill_id": 2003,
+          "skill_name": "Cure Hex",
+          "target": 99
+        },
+        {
+          "cast_time": 0.25,
+          "caster": 58,
+          "instance_timestamp": 136310,
+          "skill_id": 2061,
+          "skill_name": "Patient Spirit",
+          "target": 60
+        },
+        {
+          "cast_time": 0.25,
+          "caster": 58,
+          "instance_timestamp": 138249,
+          "skill_id": 311,
+          "skill_name": "Draw Conditions",
+          "target": 85
+        },
+        {
+          "cast_time": 0.75,
+          "caster": 58,
+          "instance_timestamp": 139799,
+          "skill_id": 1118,
+          "skill_name": "Healing Burst",
+          "target": 85
+        },
+        {
+          "cast_time": 1.0,
+          "caster": 58,
+          "instance_timestamp": 140771,
+          "skill_id": 887,
+          "skill_name": "Signet of Rejuvenation",
+          "target": 85
+        },
+        {
+          "cast_time": 0.07874506711959839,
+          "caster": 58,
+          "instance_timestamp": 141465,
+          "skill_id": 2061,
+          "skill_name": "Patient Spirit",
+          "target": 85
+        },
+        {
+          "cast_time": 0.25,
+          "caster": 58,
+          "instance_timestamp": 143243,
+          "skill_id": 311,
+          "skill_name": "Draw Conditions",
+          "target": 56
+        },
+        {
+          "cast_time": 1.0,
+          "caster": 58,
+          "instance_timestamp": 148253,
+          "skill_id": 2003,
+          "skill_name": "Cure Hex",
+          "target": 81
+        },
+        {
+          "cast_time": 0.07874506711959839,
+          "caster": 58,
+          "instance_timestamp": 154692,
+          "skill_id": 2061,
+          "skill_name": "Patient Spirit",
+          "target": 56
+        },
+        {
+          "cast_time": 0.25,
+          "caster": 58,
+          "instance_timestamp": 157999,
+          "skill_id": 299,
+          "skill_name": "Shielding Hands",
+          "target": 60
+        },
+        {
+          "cast_time": 0.75,
+          "caster": 58,
+          "instance_timestamp": 159934,
+          "skill_id": 1118,
+          "skill_name": "Healing Burst",
+          "target": 60
+        },
+        {
+          "cast_time": 1.0,
+          "caster": 58,
+          "instance_timestamp": 162452,
+          "skill_id": 887,
+          "skill_name": "Signet of Rejuvenation",
+          "target": 60
+        },
+        {
+          "cast_time": 0.25,
+          "caster": 58,
+          "instance_timestamp": 167287,
+          "skill_id": 2061,
+          "skill_name": "Patient Spirit",
+          "target": 60
+        },
+        {
+          "cast_time": 1.0,
+          "caster": 58,
+          "instance_timestamp": 168289,
+          "skill_id": 2003,
+          "skill_name": "Cure Hex",
+          "target": 60
+        },
+        {
+          "cast_time": 0.75,
+          "caster": 58,
+          "instance_timestamp": 170024,
+          "skill_id": 1118,
+          "skill_name": "Healing Burst",
+          "target": 85
+        },
+        {
+          "cast_time": 0.75,
+          "caster": 58,
+          "instance_timestamp": 176687,
+          "skill_id": 1118,
+          "skill_name": "Healing Burst",
+          "target": 56
+        },
+        {
+          "cast_time": 0.25,
+          "caster": 58,
+          "instance_timestamp": 177902,
+          "skill_id": 311,
+          "skill_name": "Draw Conditions",
+          "target": 60
+        },
+        {
+          "cast_time": 0.25,
+          "caster": 58,
+          "instance_timestamp": 191195,
+          "skill_id": 311,
+          "skill_name": "Draw Conditions",
+          "target": 56
+        },
+        {
+          "cast_time": 0.5,
+          "caster": 58,
+          "instance_timestamp": 198487,
+          "skill_id": 311,
+          "skill_name": "Draw Conditions",
+          "target": 61
+        },
+        {
+          "cast_time": 0.5,
+          "caster": 58,
+          "instance_timestamp": 199754,
+          "skill_id": 1037,
+          "skill_name": "Dark Escape",
+          "target": 0
+        },
+        {
+          "cast_time": 0.15037812292575836,
+          "caster": 58,
+          "instance_timestamp": 213632,
+          "skill_id": 2061,
+          "skill_name": "Patient Spirit",
+          "target": 56
+        },
+        {
+          "cast_time": 0.75,
+          "caster": 58,
+          "instance_timestamp": 216473,
+          "skill_id": 1118,
+          "skill_name": "Healing Burst",
+          "target": 0
+        },
+        {
+          "cast_time": 0.3007562458515167,
+          "caster": 58,
+          "instance_timestamp": 218499,
+          "skill_id": 311,
+          "skill_name": "Draw Conditions",
+          "target": 60
+        },
+        {
+          "cast_time": 1.203024983406067,
+          "caster": 58,
+          "instance_timestamp": 224973,
+          "skill_id": 2003,
+          "skill_name": "Cure Hex",
+          "target": 56
+        },
+        {
+          "cast_time": 0.75,
+          "caster": 58,
+          "instance_timestamp": 226060,
+          "skill_id": 1118,
+          "skill_name": "Healing Burst",
+          "target": 56
+        },
+        {
+          "cast_time": 1.0,
+          "caster": 58,
+          "instance_timestamp": 228474,
+          "skill_id": 2003,
+          "skill_name": "Cure Hex",
+          "target": 56
+        },
+        {
+          "cast_time": 0.25,
+          "caster": 58,
+          "instance_timestamp": 229994,
+          "skill_id": 299,
+          "skill_name": "Shielding Hands",
+          "target": 56
+        },
+        {
+          "cast_time": 0.75,
+          "caster": 58,
+          "instance_timestamp": 232476,
+          "skill_id": 1118,
+          "skill_name": "Healing Burst",
+          "target": 61
+        },
+        {
+          "cast_time": 0.25,
+          "caster": 58,
+          "instance_timestamp": 237791,
+          "skill_id": 311,
+          "skill_name": "Draw Conditions",
+          "target": 61
+        },
+        {
+          "cast_time": 0.75,
+          "caster": 58,
+          "instance_timestamp": 241364,
+          "skill_id": 1118,
+          "skill_name": "Healing Burst",
+          "target": 61
+        },
+        {
+          "cast_time": 0.25,
+          "caster": 58,
+          "instance_timestamp": 249869,
+          "skill_id": 2061,
+          "skill_name": "Patient Spirit",
+          "target": 0
+        },
+        {
+          "cast_time": 0.75,
+          "caster": 58,
+          "instance_timestamp": 253855,
+          "skill_id": 1118,
+          "skill_name": "Healing Burst",
+          "target": 61
+        },
+        {
+          "cast_time": 0.25,
+          "caster": 58,
+          "instance_timestamp": 259502,
+          "skill_id": 2061,
+          "skill_name": "Patient Spirit",
+          "target": 0
+        },
+        {
+          "cast_time": 0.25,
+          "caster": 58,
+          "instance_timestamp": 264849,
+          "skill_id": 311,
+          "skill_name": "Draw Conditions",
+          "target": 56
+        },
+        {
+          "cast_time": 0.25,
+          "caster": 58,
+          "instance_timestamp": 272510,
+          "skill_id": 299,
+          "skill_name": "Shielding Hands",
+          "target": 0
+        },
+        {
+          "cast_time": 0.75,
+          "caster": 58,
+          "instance_timestamp": 274000,
+          "skill_id": 1118,
+          "skill_name": "Healing Burst",
+          "target": 61
+        }
+      ],
+      "skills_stopped": [
+        {
+          "action": "stop",
+          "instance_timestamp": 32935
+        },
+        {
+          "action": "stop",
+          "instance_timestamp": 33670
+        },
+        {
+          "action": "stop",
+          "instance_timestamp": 34303
+        },
+        {
+          "action": "stop",
+          "instance_timestamp": 83561
+        },
+        {
+          "action": "stop",
+          "instance_timestamp": 85213
+        },
+        {
+          "action": "stop",
+          "instance_timestamp": 90866
+        },
+        {
+          "action": "stop",
+          "instance_timestamp": 93110
+        },
+        {
+          "action": "stop",
+          "instance_timestamp": 94540
+        },
+        {
+          "action": "stop",
+          "instance_timestamp": 98069
+        },
+        {
+          "action": "stop",
+          "instance_timestamp": 106569
+        },
+        {
+          "action": "stop",
+          "instance_timestamp": 107676
+        },
+        {
+          "action": "stop",
+          "instance_timestamp": 140135
+        },
+        {
+          "action": "stop",
+          "instance_timestamp": 140877
+        },
+        {
+          "action": "interrupt",
+          "instance_timestamp": 140877
+        },
+        {
+          "action": "stop",
+          "instance_timestamp": 216892
+        },
+        {
+          "action": "stop",
+          "instance_timestamp": 225351
+        }
+      ],
+      "team": "Red"
+    }
+  ]
+}

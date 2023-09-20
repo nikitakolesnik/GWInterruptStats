@@ -1,0 +1,145 @@
+Stats for I Fretty I (4):
+	Hits:     27
+	Misses:   32
+	Total:    59
+	Accuracy: 45%
+	---
+	Fastest reaction: 101 ms	
+	Slowest reaction: 766 ms
+	Median  reaction: 464 ms
+	---
+	Targets hit:
+		14 - Nuttensohn Fisto (4)
+		5 - Schmeckbert Mc Leck (3)
+		3 - Drama Of The Year (7)
+		3 - Lf More Mat Sc (6)
+		2 - Archer
+	Targets missed:
+		13 - Lf More Mat Sc (6)
+		9 - Nuttensohn Fisto (4)
+		7 - Drama Of The Year (7)
+		3 - Schmeckbert Mc Leck (3)
+	---
+	Interrupts hit:
+		12 - Complicate
+		10 - Power Leak
+		5 - Power Drain
+	Interrupts missed:
+		13 - Power Leak
+		11 - Complicate
+		8 - Power Drain
+	---
+	Skills hit:
+		10 - Gust
+		5 - Lightning Strike
+		4 - Guardian
+		2 - Pin Down
+		2 - Shock
+		1 - Vigorous Spirit
+		1 - Air Attunement
+		1 - Lightning Touch
+		1 - Healing Burst
+	Skills missed:
+		32 - 
+
+Stats for Aquamarine Hoshino (5):
+	Hits:     49
+	Misses:   24
+	Total:    73
+	Accuracy: 67%
+	---
+	Fastest reaction: 33 ms	
+	Slowest reaction: 1852 ms
+	Median  reaction: 448 ms
+	---
+	Targets hit:
+		27 - Nuttensohn Fisto (4)
+		13 - Schmeckbert Mc Leck (3)
+		6 - Drama Of The Year (7)
+		1 - Hurray For Feminism (2)
+		1 - Archer
+		1 - Lf More Mat Sc (6)
+	Targets missed:
+		8 - Gust Kammer (5)
+		7 - Nuttensohn Fisto (4)
+		5 - Drama Of The Year (7)
+		3 - Schmeckbert Mc Leck (3)
+		1 - Gustin Bieber (1)
+	---
+	Interrupts hit:
+		32 - Complicate
+		11 - Power Block
+		4 - Cry of Frustration
+		1 - Power Spike
+		1 - Power Drain
+	Interrupts missed:
+		11 - Complicate
+		4 - Power Spike
+		4 - Cry of Frustration
+		3 - Power Block
+		2 - Power Drain
+	---
+	Skills hit:
+		16 - Gust
+		9 - Lightning Touch
+		8 - Lightning Strike
+		6 - Healing Burst
+		5 - Shock
+		2 - Resurrection Signet
+		1 - Golden Fang Strike
+		1 - Pin Down
+		1 - Guardian
+	Skills missed:
+		24 - 
+
+Stats for Gust Kammer (5):
+	Hits:     219
+	Misses:   37
+	Total:    256
+	Accuracy: 85%
+	---
+	Fastest reaction: 32 ms	
+	Slowest reaction: 782 ms
+	Median  reaction: 67 ms
+	---
+	Targets hit:
+		81 - Yulivee Ill (8)
+		63 - Survival Situation (7)
+		51 - Celestial Azrael I (6)
+		24 - I Fretty I (4)
+	Targets missed:
+		16 - Celestial Azrael I (6)
+		12 - Yulivee Ill (8)
+		8 - Survival Situation (7)
+		1 - I Fretty I (4)
+	---
+	Interrupts hit:
+		81 - Power Spike
+		48 - Signet of Disruption
+		38 - Cry of Frustration
+		31 - Leech Signet
+		21 - Complicate
+	Interrupts missed:
+		10 - Power Spike
+		9 - Signet of Disruption
+		8 - Cry of Frustration
+		6 - Leech Signet
+		4 - Complicate
+	---
+	Skills hit:
+		57 - Healing Burst
+		32 - Patient Spirit
+		29 - Pensive Guardian
+		23 - Restore Condition
+		23 - Energy Surge
+		15 - Shielding Hands
+		14 - Shield Guardian
+		12 - Spirit Bond (PvP)
+		8 - Aura of Stability
+		3 - [UNLABELED_SKILL]
+		1 - Draw Conditions
+		1 - Drain Enchantment
+		1 - Signet of Rejuvenation
+	Skills missed:
+		37 - 
+
